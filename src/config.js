@@ -26,7 +26,7 @@ System.config({
     "gaearon/babel-plugin-react-hotify": "github:gaearon/babel-plugin-react-hotify@0.1.1",
     "immutable": "npm:immutable@3.7.3",
     "jsx": "npm:jspm-loader-jsx@0.0.1",
-    "react": "npm:react@0.14.0-alpha3",
+    "react": "npm:react@0.13.3",
     "github:jspm/nodelibs-assert@0.1.0": {
       "assert": "npm:assert@1.3.0"
     },
@@ -358,11 +358,6 @@ System.config({
       "process": "github:jspm/nodelibs-process@0.1.1"
     },
     "npm:react@0.13.3": {
-      "buffer": "github:jspm/nodelibs-buffer@0.1.0",
-      "envify": "npm:envify@3.4.0",
-      "process": "github:jspm/nodelibs-process@0.1.1"
-    },
-    "npm:react@0.14.0-alpha3": {
       "buffer": "github:jspm/nodelibs-buffer@0.1.0",
       "envify": "npm:envify@3.4.0",
       "process": "github:jspm/nodelibs-process@0.1.1"

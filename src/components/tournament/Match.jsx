@@ -10,7 +10,7 @@ class Match extends React.Component {
 
 	render() {
 		return (
-			<div>Match component 3523</div>
+			<div>Match component 3</div>
 		);
 	}
 }
