@@ -1,4 +1,3 @@
-System.trace = true;
 System.config({
   "baseURL": "/src",
   "transpiler": "babel",
@@ -24,6 +23,7 @@ System.config({
     "core-js": "npm:core-js@0.9.14",
     "d3": "github:mbostock/d3@3.5.5",
     "fetch": "npm:whatwg-fetch@0.9.0",
+    "gaearon/babel-plugin-react-hotify": "github:gaearon/babel-plugin-react-hotify@0.1.1",
     "immutable": "npm:immutable@3.7.3",
     "jsx": "npm:jspm-loader-jsx@0.0.1",
     "react": "npm:react@0.14.0-alpha3",
